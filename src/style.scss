@@ -1,0 +1,21 @@
+@import "./header/header.scss";
+@import "./hello/hello.scss";
+@import "./section/section.scss";
+@import "./main/main.scss";
+
+body {
+    margin: 0;
+    }
+
+h1 {
+   font-size: 60px;
+   text-transform: uppercase;
+   color: white; 
+   z-index: 0;
+}
+section {
+    padding: 100px 0;
+}
+
+
+
